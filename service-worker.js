@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/deploy360micro/precache-manifest.d22d20a98c0817c06efa63715c121513.js"
+  "/deploy360micro/precache-manifest.d71cf1d9bb2365ff1801d6bc049c2def.js"
 );
 
 self.addEventListener('message', (event) => {
