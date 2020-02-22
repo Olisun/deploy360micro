@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deploy360micro/static/css/main.2191a88d.chunk.css",
+    "main.js": "/deploy360micro/static/js/main.412388f0.chunk.js",
+    "main.js.map": "/deploy360micro/static/js/main.412388f0.chunk.js.map",
+    "runtime-main.js": "/deploy360micro/static/js/runtime-main.f1dcedaf.js",
+    "runtime-main.js.map": "/deploy360micro/static/js/runtime-main.f1dcedaf.js.map",
+    "static/js/2.42bb98bc.chunk.js": "/deploy360micro/static/js/2.42bb98bc.chunk.js",
+    "static/js/2.42bb98bc.chunk.js.map": "/deploy360micro/static/js/2.42bb98bc.chunk.js.map",
+    "index.html": "/deploy360micro/index.html",
+    "precache-manifest.d71cf1d9bb2365ff1801d6bc049c2def.js": "/deploy360micro/precache-manifest.d71cf1d9bb2365ff1801d6bc049c2def.js",
+    "service-worker.js": "/deploy360micro/service-worker.js",
+    "static/css/main.2191a88d.chunk.css.map": "/deploy360micro/static/css/main.2191a88d.chunk.css.map",
+    "static/js/2.42bb98bc.chunk.js.LICENSE.txt": "/deploy360micro/static/js/2.42bb98bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1dcedaf.js",
+    "static/js/2.42bb98bc.chunk.js",
+    "static/css/main.2191a88d.chunk.css",
+    "static/js/main.412388f0.chunk.js"
+  ]
+}

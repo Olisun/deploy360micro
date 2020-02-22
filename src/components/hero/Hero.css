@@ -1,0 +1,19 @@
+#typed-hero {
+  color: red;
+  font-size: 32px;
+  font-weight: bold;
+  margin: 5rem;
+  margin-top: 10rem;
+  text-align: center;
+  text-shadow: 8px 4px 11px rgba(14, 1, 1, 0.42);
+}
+
+h1 {
+  color: blue;
+  text-shadow: 8px 4px 11px rgba(14, 1, 1, 0.42);
+  font-family: fantasy;
+}
+
+#carousel {
+  margin-top: 3rem;
+}
