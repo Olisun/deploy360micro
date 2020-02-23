@@ -7,8 +7,7 @@ class SwitchMatrix extends Component {
   render() {
     return (
       <div className="container">
-        <h1>Switch Matrix Page works</h1>
-        <p>Andrew Wiggins.</p>
+        <h1>Switch Matrix Page</h1>
       </div>
     )
   }
